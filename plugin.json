@@ -1,0 +1,8 @@
+{
+  "name": "qterminal",
+  "repo": "pyotrkk/qterminal",
+  "version": "1.0.0",
+  "description": "Quake-style floating terminal for Neovim",
+  "license": "MIT",
+  "main": "lua/qterminal.lua"
+}
